@@ -47,4 +47,4 @@ Possuir um compilador C instalado (como `gcc`).
 
 1. Compile o arquivo:
    ```bash
-   gcc -O2 fameNoMinhocao.c -o fomeNoMinhocao
+   gcc fameNoMinhocao.c -o fomeNoMinhocao
